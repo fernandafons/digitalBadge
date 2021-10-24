@@ -39,6 +39,10 @@ main {
   position: relative;
 }
 
+.audio {
+  margin: 3rem -10rem 0 ;
+}
+
 .avatar span {
   position: absolute;
   top: -15px;
